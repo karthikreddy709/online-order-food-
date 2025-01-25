@@ -40,7 +40,7 @@ public class Order {
 		System.out.println("ordrer Summary");
 		System.out.println("Food item " + menu[choise -1] );
 		System.out.println("Quantaty " + quantity );
-		System.out.println("Total prize " + Total_price);
+		System.out.println("Total cost " + Total_price);
 		
 		
 		
